@@ -2,15 +2,23 @@
 
 <div align="center">
 
-![DHA Production](https://img.shields.io/badge/DHA-Production-blue?style=for-the-badge)
+[![DHA Production](https://img.shields.io/badge/DHA-Production-blue?style=for-the-badge)](https://github.com/dhall-afdhal)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Landing Page Modern dengan Desain Transparan, Fully Responsive, dan Dark Mode Support**
 
+<div align="center">
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/dhall-afdhal?label=Follow&style=social)](https://github.com/dhall-afdhal)
 [![GitHub stars](https://img.shields.io/github/stars/dhall-afdhal/modern-landing-page?style=social)](https://github.com/dhall-afdhal/modern-landing-page)
 [![GitHub forks](https://img.shields.io/github/forks/dhall-afdhal/modern-landing-page?style=social)](https://github.com/dhall-afdhal/modern-landing-page)
+[![License](https://img.shields.io/github/license/dhall-afdhal/modern-landing-page)](https://github.com/dhall-afdhal/modern-landing-page/blob/main/LICENSE)
+
+</div>
+
+
 
 </div>
 
@@ -431,6 +439,7 @@ Website ini kompatibel dengan browser modern:
 - [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ---
+
 ## 📞 Contact & Support
 
 <div align="center">
@@ -494,20 +503,4 @@ Website ini kompatibel dengan browser modern:
 Made with ❤️ by <a href="https://github.com/dhall-afdhal">Afdhal</a> | DHA Production
 
 </div>
----
 
-
-<div align="center">
-
-**Happy Coding! 🚀**
-
-Jika ada pertanyaan atau saran, jangan ragu untuk membuka issue atau menghubungi kami!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhall-afdhal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaproductionengineering@gmail.com)
-
-</div>
-
----
-
-**⭐ Don't forget to star this repository if you find it helpful! ⭐**
