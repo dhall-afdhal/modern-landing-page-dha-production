@@ -14,6 +14,46 @@
 
 </div>
 
+
+---
+## 📸 Asset Preview
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/modern-landing-page-dha-production/main/asesstes/image.png" width="250"><br>
+      <b></b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/modern-landing-page-dha-production/main/asesstes/image%20copy.png" width="250"><br>
+      <b></b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/modern-landing-page-dha-production/main/asesstes/image%20copy%202.png" width="250"><br>
+      <b></b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/modern-landing-page-dha-production/main/asesstes/image%20copy%203.png" width="250"><br>
+      <b></b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dhall-afdhal/modern-landing-page-dha-production/main/asesstes/image%20copy%204.png" width="250"><br>
+      <b></b>
+    </td>
+    <td align="center">
+      <!-- Video: GitHub will play this when clicked -->
+      <a href="https://github.com/dhall-afdhal/modern-landing-page-dha-production/blob/main/asesstes/conten%20website%20modern-landing-page.mp4">
+        <img src="https://img.icons8.com/clouds/500/video.png" width="200">
+      </a><br>
+      <b></b>
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 ## 📋 Daftar Isi
@@ -373,8 +413,24 @@ Website ini kompatibel dengan browser modern:
 - **Time to Interactive**: < 2s
 - **Lighthouse Score**: 90+ (Performance)
 
+
+
+
 ---
 
+## 📚 Referensi & Resources
+
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Font Awesome Icons](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Can I Use](https://caniuse.com/) - Browser compatibility
+- [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
+---
 ## 📞 Contact & Support
 
 <div align="center">
@@ -438,72 +494,8 @@ Website ini kompatibel dengan browser modern:
 Made with ❤️ by <a href="https://github.com/dhall-afdhal">Afdhal</a> | DHA Production
 
 </div>
-
 ---
 
-## 📚 Referensi & Resources
-
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [CSS-Tricks](https://css-tricks.com/)
-- [Font Awesome Icons](https://fontawesome.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Can I Use](https://caniuse.com/) - Browser compatibility
-- [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-
----
-
-## 🙏 Acknowledgments
-
-- Terima kasih kepada semua kontributor
-- Inspirasi dari komunitas web development
-- Font Awesome untuk icon library
-- Google Fonts untuk typography
-- Komunitas open source untuk resources dan inspirasi
-- Semua developer yang telah memberikan feedback dan saran
-
----
-
-## 🔮 Future Improvements
-
-Fitur yang mungkin akan ditambahkan di masa depan:
-
-- [ ] Backend integration untuk contact form
-- [ ] Multi-language support
-- [ ] More animation options
-- [ ] Blog section
-- [ ] Portfolio showcase
-- [ ] Testimonials section
-- [ ] Newsletter subscription
-- [ ] Analytics integration
-
----
-
-## 🤝 Contributing
-
-Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
-
-1. Fork repository ini
-2. Buat branch untuk fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
----
-
-## 📝 Changelog
-
-### Version 1.0.0 (Current)
-- ✨ Initial release
-- 🌙 Full dark mode support
-- 📱 Fully responsive design
-- 🎨 Modern glass morphism design
-- ⚡ Performance optimized
-- 🎯 All sections implemented
-
----
 
 <div align="center">
 
